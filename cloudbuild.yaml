@@ -1,0 +1,6 @@
+steps:
+  - name: 'python'
+    entrypoint: 'python3'
+    args: ['calculator.py']
+
+timeout: '120s'
